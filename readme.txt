@@ -5,3 +5,4 @@ Check push origin
 Create a new branch is quick
 Create a new branch is quick and simple
 Force disable fast forward mode
+Insert fix bug
